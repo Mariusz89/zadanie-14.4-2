@@ -1,4 +1,4 @@
-export default  [
+var data =  [
 		{	
 			id: 1,
 			title: 'Harry Potter',
@@ -23,4 +23,7 @@ export default  [
 			desc: 'Sparaliżowany milioner zatrudnia do opieki młodego chłopaka z przedmieścia, który właśnie wyszedł z więzienia.',
 			img: 'https://cdn.pixabay.com/photo/2017/10/05/22/16/katz-2821316__340.jpg'
 		}
-		];
+];
+
+
+export default data;
